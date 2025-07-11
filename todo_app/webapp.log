@@ -1,0 +1,7 @@
+2025/07/07 11:53:04 main.go:15: test
+2025/07/07 15:38:47 users.go:33: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
+2025/07/07 16:33:22 todos.go:20: no such table: todos
+2025/07/07 16:36:00 todos.go:20: no such table: todos
+2025/07/07 16:38:33 todos.go:20: no such table: todos
+2025/07/07 16:39:48 todos.go:20: no such table: todos
+2025/07/07 16:44:46 todos.go:20: no such table: todos
